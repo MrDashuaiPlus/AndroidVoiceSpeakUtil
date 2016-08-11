@@ -1,5 +1,8 @@
 # AndroidVoiceSpeakUtil
-对百度语音api的进一步简化封装，实现一行代码语音朗读指定文本
+  
+  @author李大帅
+  
+  对百度语音api的进一步简化封装，实现一行代码语音朗读指定文本
 ```java 
 VoiceSpeakUtil vsl = new VoiceSpeakUtil(this);
 //不带回调的方式
